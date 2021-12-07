@@ -1,0 +1,56 @@
+#top-container{
+
+  background-image: linear-gradient(to right, #DDFFBC , #FEFFDE);
+  padding: 5% 5% 5% 5%;
+  text-align: center;
+}
+
+.img-fluid{
+ height: 200px;
+ width: 200px;
+
+}
+
+.music-note{
+
+  height: 350px;
+  width: 300px;
+}
+
+h1{
+  font-family: cookie;
+  font-size: 6rem;
+}
+
+p{
+  font-family: itim;
+  font-size: 2rem;
+}
+
+hr{
+  border-style: dotted;
+  color: white;
+  width: 5%;
+}
+
+#middle-container{
+  text-align: center;
+  background-image: linear-gradient(to right , #FEFFDE, #DDFFBC);
+  padding: 5% 5% 5% 5%;
+
+}
+.reethika-pic{
+  height: 300px;
+  width: 300px;
+}
+
+h3{
+  font-size: 2rem;
+  text-decoration: underline;
+}
+#contact-me{
+
+  background-image: linear-gradient(to right, #DDFFBC , #FEFFDE);
+  padding: 5% 5% 5% 5%;
+  text-align: center;
+}
